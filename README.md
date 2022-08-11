@@ -9,3 +9,4 @@ Random: Python Random module is an in-built module of Python which is used to ge
 
 
 
+Creating a game or any software or any website is not a great idea, one should always use different modules and different files and at last integrate them to give us an final output which will satisfy the principle of low coupling and high cohesion.
